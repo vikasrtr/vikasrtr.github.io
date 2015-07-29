@@ -5,7 +5,7 @@
 url: http://vikasrtr.github.io
 title: DATa-ing
 subtitle: Thoughts on Data & Science
-author: Thoughts on Data & Science
+author: Vikas Raturi
 simple_search: https://www.google.com/search
 description: A blog on my experiences and thoughts about Data and Science ;)
 
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /:year/:title/
+permalink: /:title/
 source: source
 destination: public
 plugins: plugins
